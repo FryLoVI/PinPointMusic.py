@@ -1,2 +1,3 @@
 # PinPointMusic
-Version One: Program gives quick access to music therory in python. 
+//Version One: Program gives quick access to music therory.
+//Works great on mobile Python appilications. 
